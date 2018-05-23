@@ -1,1 +1,1 @@
-dummychatroom,anotherchatroom,
+dummychatroom,anotherchatroom,hello,bla,
